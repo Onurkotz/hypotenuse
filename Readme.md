@@ -1,3 +1,3 @@
-#JAVA
+## JAVA
 
-Calculate hypotenuse, perimetre and area of a 90° triangle and area of triangle.
+Calculate hypotenuse, perimeter and area of a right triangle and equilateral triangle.

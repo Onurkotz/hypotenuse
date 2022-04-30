@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
-public class triangle {
+public class Triangle {
     public static void main(String[] args) {
 
         double a, b,hypotenuse, area, perimetre;
-        ///////  90° Triangle
+        ///////  Right Triangle
 
         Scanner input = new Scanner(System.in);
         System.out.print("Enter first side of 90° triangle type in centimetre: ");
